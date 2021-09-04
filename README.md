@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MANASVI!</h1>
 <h3 align="center">I am pursuing my B.TECH(INFORMATION TECHNOLOGY) from ABES ENGINEERING COLLEGE who passionate about coding.</h3>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Python , Frontend**
+- 🌱 I know basic  **Python , Frontend**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
